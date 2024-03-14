@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>genap</title>
+    <style>
+        body {
+            background-color: #b6d9ff; /* Light blue background */
+            color: #333; /* Dark text color */
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #f57f17; /* Orange heading color */
+        
+        
+        
+    </style>
+</head>
+<body>
+    <h1>SMK ASTRINDO</h1>
+    
+    <section id="tentang">
+        <h2>TENTANG JURUSAN TKJ</h2>
+        <p>Teknik Jaringan Komputer dan Komunikasi ( disingkat TJKT ) merupakan ilmu berbasis Teknologi Informasi dan Komunikasi terkait kemampuan algoritma, dan pemrograman komputer, perakitan komputer, perakitan jaringan komputer, dan pengoperasian perangkat lunak, dan internet.</p>
+    </section>
+
+    <section id="kurikulum">
+        <h2>PENGERTIAN TEHNIK JARINGAN COMPUTER</h2>
+        <p>TKJ Adalah singkatan dari Teknik Komputer Jaringan. TKJ merupakan sebuah kejuruan yang mempelajari tentang cara merakit komputer, mengenal dan mempelajari komponen hardware apa saja yang ada di dalam komputer, merakit komputer serta fokus mempelajari jaringan dasar. Tidak hanya itu selama tiga tahun belajar di TKJ anda akan belajar sistem kerja jaringan dan pemograman web serta meng-administrasi komputer jaringan. Kejuruan TKJ hanya ada di STM/SMK, sampai saat ini jurusan TKJ merupakan jurusan yang sangat populer dan banyak diminati selain RPL dan juga jurusan Multimedia.</p>
+    </section>
+
+    <section id="foto">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheB4Gc5ZaoLT8h3e6E04kFx6UWirXnTJcoA&usqp=CAU" alt="Foto Kampus">
+    </section>
+    <section id="foto">
+      <h2>PELAJARAN TKJ APA SAJA ?</h2>
+      <p>Pelajaran yang dibahas di jurusan TKJ tentunya mendalami dunia jaringan komputer, mulai dari dasar hingga membangun jaringan sendiri melalui Router. Mengatur komputer agar bisa saling terhubung ke internet dengan jaringan yang sudah dibuat, malukan konfigurasi Linux seperti membangun DHCP, Mail Server, DNS, dan masih banyak lagi. Serta mempelajari Mikrotik dan Cisco, namun disetiap sekolah siswa wajib sudah bisa merakit komputer dan menginstall sistem operasi, dan mengerti dasar-dasar jaringan komputer.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAJsxTij8q2ZAc96qQVO4sJOtzbeaEfJ7dA&usqp=CAU"
+    </section>
+    <section id="foto">
+      <h2>KELEBIHAN JURUSAN TKJ</h2>
+      <P>Setiap jurusan memiliki kelebihannya masing-masing, kelebihan jurusan tkj sendiri adalah anda akan mengerti anda akan mengerti dunia teknologi terutama komputer dan jaringan, dalam jurusan ini anda tidak akan gaptek. Hingga setelah lulus diharapkan anda bisa langsung bekerja sebagai Network Administrator. Pekerjaan mulai dari menyusun kabel, mengontrol sever, membangun topologi jaringan di setiap kebutuhannya.
+ </P>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Jurusan Teknik Jaringan Computer</p>
+    </footer>
+</body>
+</html>
